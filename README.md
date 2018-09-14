@@ -4,7 +4,10 @@ This is a simple memory game programmed in Python.
 
 ## Running the game
 
-Download memory.py and run "./memory.py" from its location. You can use "python memory.py" as well.
+Download memory.py and run "./memory.py" from its location.
+If there's a permissions error, do "chmod +x memory.py" first.
+
+You can use "python memory.py" as well.
 
 ## Rules
 
@@ -20,8 +23,10 @@ I decided to keep this format for simplicity.
 I could have put some lines of code into separate functions, 
 but I feel like the current code has a logical and chronological flow and is easy to read.
 
-The bulk of information is stored in 2D arrays, which I thought made the most sense since Memory consists of a grid of cards. 
-I used numpy to manipulate these arrays, since numpy is really good at that. I also used a few of Python's built-in libraries for various purposes.
+The bulk of information is stored in 2D arrays, which I thought made the most sense
+since the game consists of a grid of cards. 
+I used numpy to manipulate these arrays, since numpy is really good at that.
+I also used a few of Python's built-in libraries for various purposes.
 
 ## Additional notes
 
