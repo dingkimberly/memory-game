@@ -1,4 +1,4 @@
-# Memory Game
+# Memory.py
 
 This is a simple memory game programmed in Python.
 
