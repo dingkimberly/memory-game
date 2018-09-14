@@ -2,7 +2,7 @@
 
 This is a simple memory game programmed in Python.
 
-## Running the Game
+## Running the game
 
 Download memory.py and run "./memory.py" from its location. You can use "python memory.py" as well.
 
